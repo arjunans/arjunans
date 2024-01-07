@@ -1,6 +1,6 @@
 ### Hi there, I am Arjunan 👋
 
-- 🔭 I’m currently working on .Net core & Devops
+- 🔭 I’m currently working on Cloud, .Net core & Devops
 - 🌱 I’m currently learning AWS Cloud and .Net microservices
 - 👯 I’m looking to collaborate on cloud and devops projects
 - 🤔 I’m looking for help regarding Cloud Native Development and .Net Microservices. 
